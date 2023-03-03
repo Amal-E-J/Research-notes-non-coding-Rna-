@@ -1,8 +1,8 @@
-# Finding Coding RNA using Machine Learning 🧬🧪💻
+# Finding Coding RNA using Machine Learning 🧬 🧪 💻
 
 This repository contains the code and data for a project aimed at finding whether a given DNA sequence is coding RNA or non-coding RNA using machine learning models. The project uses various features of the DNA sequence to train the models
 
-# Features
+# Features 🔍
 -  ORF length
 -  protein coding potential
 -  G-C content
@@ -16,11 +16,11 @@ This repository contains the code and data for a project aimed at finding whethe
 -  Hexamer score  
 -  Fickett Score  
 
-# Dataset 📊📉
+# Dataset 📊
 
 The dataset used in this project contains both coding and non-coding RNA sequences. The sequences are in FASTA format and have been pre-processed to extract various features such as ORF length, protein coding potential, etc. The dataset is split into training and testing sets, with 80% of the data used for training and the remaining 20% used for testing.
 
-# Models 🤖🔍
+# Models 🤖
 
 The following machine learning models have been implemented for this project:
 
@@ -52,4 +52,4 @@ To use the code in this repository, follow these steps:
 
 # Conclusion 📝
 
-This project shows that machine learning models can be used to accurately classify DNA sequences as coding or non-coding RNA based on various features. The models implemented in this project can be further optimized and used in various biological applications, such as identifying potential drug targets and understanding gene expression. So, let's go and explore the world of RNA with Machine Learning! 🔍🧬💻
+This project shows that machine learning models can be used to accurately classify DNA sequences as coding or non-coding RNA based on various features. The models implemented in this project can be further optimized and used in various biological applications, such as identifying potential drug targets and understanding gene expression. So, let's go and explore the world of RNA with Machine Learning! 
